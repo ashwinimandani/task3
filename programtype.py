@@ -1,4 +1,4 @@
-file=open('/home/deeplearning/fashion_mnist','r')
+file=open('/home/deeplearning/fashion_mnist.py','r')
 code=file.read()
 if 'keras' or 'tensorflow' in code:
 	print("keras")
