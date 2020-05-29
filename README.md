@@ -1,2 +1,2 @@
 # task3
-sncbsncbss
+Fashion_mnist dataset solution
